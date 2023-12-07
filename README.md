@@ -1,10 +1,4 @@
 
-# Academics
-- Instituto Politécnico Nacional
-- Google Data Analytics Certificate
-
-# Projects
-- Project 1: Bellabeat
 
 
 
