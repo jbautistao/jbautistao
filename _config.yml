@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Jorge Alejandro Bautista
-description: Portfolio bla bla bla bla bla
+description: Mechatronics engineer looking for a long-term career in data science. Inspired by the power of data in business decision-making.
 show_downloads: false
